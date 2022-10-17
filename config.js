@@ -10,13 +10,15 @@ const CONFIG = {
 	// ├┴┐├─┤└─┐││  └─┐
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
-  // General
-  name: 'John',
-  imageBackground: false,
-  openInNewTab: true,
-  twelveHourFormat: false,
-  title: 'Bento',
+	// General
+	name: 'Taavi',
+	openInNewTab: true,
+	twelveHourFormat: false,
 
+	// Theme
+	theme: 'latte-frappe',
+	imageBackground: false,
+	
 	// Greetings
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
@@ -47,12 +49,9 @@ const CONFIG = {
 	hourDarkThemeActive: '18:30',
 	hourDarkThemeInactive: '07:00',
 
-  	// Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
-  	changeThemeByLocation: false,
-
-  // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
-  // ├┴┐│ │ │  │ │ ││││└─┐
-  // └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
+	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
+	// ├┴┐│ │ │  │ │ ││││└─┐
+	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	firstButtonsContainer: [
 		{
