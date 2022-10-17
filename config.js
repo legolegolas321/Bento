@@ -16,7 +16,7 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Theme
-	theme: 'latte-frappe',
+	theme: 'latte-macchiato',
 	imageBackground: false,
 	
 	// Greetings
@@ -29,7 +29,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '19828d1144befc4a189ac2906e217624', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -64,13 +64,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Stuudium',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://viljandi.ope.ee/',
 		},
 		{
 			id: '4',
@@ -86,9 +86,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
